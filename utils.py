@@ -1,5 +1,5 @@
 import os
-import sqlite3
+import sqlite3 # not using sqlite3 in current version as uploading image of mastiff
 import requests
 from keys import google_key, cx
 
